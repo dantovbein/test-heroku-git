@@ -1,5 +1,5 @@
 def printnombre():
-	print "Funcion nombre"
+	print("Funcion nombre")
 	return "Dantoooo!!!"
 
 printnombre()
