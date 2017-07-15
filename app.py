@@ -1,1 +1,3 @@
-return "test ok"
+nombre = "Dantoo"
+
+print nombre
