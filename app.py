@@ -1,3 +1,5 @@
-nombre = "Dantoo"
+def printnombre():
+	print "Funcion nombre"
+	return "Dantoooo!!!"
 
-print nombre
+printnombre()
