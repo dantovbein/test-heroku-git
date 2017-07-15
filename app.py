@@ -1,1 +1,1 @@
-print "test ok"
+return "test ok"
