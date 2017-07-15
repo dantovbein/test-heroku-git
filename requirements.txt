@@ -1,1 +1,1 @@
-pip install virtualenv
+virtualenv==15.1.0
