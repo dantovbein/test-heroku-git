@@ -27,5 +27,5 @@ six==1.10.0
 stormpath==2.4.4
 urllib3==1.21.1
 virtualenv==15.1.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 WTForms==2.1
